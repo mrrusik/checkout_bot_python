@@ -19,6 +19,6 @@ keys = {
          "card_number": 12312312341412,
          "card_cvv":333,
          "card_exp_mo": 12,
-         "card_exp_yr": 11 #see docs above
+         "card_exp_yr": 11 
 }
 ```
