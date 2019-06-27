@@ -22,3 +22,9 @@ keys = {
          "card_exp_yr": 11 
 }
 ```
+
+### STEP THREE
+
+You may have to download the correct chromedriver for you operating system (Linux/OSX/Windows), put the chromedriver the supreme-bot directory with the script.
+
+chromdriver: http://chromedriver.chromium.org/downloads
